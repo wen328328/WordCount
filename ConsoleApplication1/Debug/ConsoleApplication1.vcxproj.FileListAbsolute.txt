@@ -1,0 +1,2 @@
+D:\新建文件夹 (2)\ConsoleApplication1\Debug\ConsoleApplication1.exe
+D:\新建文件夹 (2)\ConsoleApplication1\Debug\ConsoleApplication1.pdb
